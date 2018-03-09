@@ -1,2 +1,0 @@
-# waffle
-Blog system

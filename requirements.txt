@@ -1,5 +1,0 @@
-Pyramid
-SQLAlchemy
-gunicorn
-Alembic
-Buildout
