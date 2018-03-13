@@ -3,7 +3,7 @@
 
 
 __author__ = ['Yifan Wang <yifan_wang@silanis.com>']
-__copyright__ = "Copyright (C) 2017, The Waffle Authors"
+__copyright__ = "Copyright (C) 2018, The Waffle Authors"
 __license__ = "MIT"
 __version__ = '0.1.0'
 __description__ = 'Python Web Toolkit'
